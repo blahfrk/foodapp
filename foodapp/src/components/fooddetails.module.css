@@ -2,11 +2,10 @@
   max-width: 500px;
   margin: 20px auto;
   padding: 20px;
-  box-shadow: 0 4px 8px #ff440061;
+  box-shadow: 0 4px 8px rgb(0, 0, 0, 0.1);
   border-radius: 10px;
   font-family: Polysans, sans-serif;
   color: #393e46;
-  border: 2px solid #ff440061;
 }
 
 .recipeName {
